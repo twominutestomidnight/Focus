@@ -1,0 +1,9 @@
+{
+	"read_data" : "data.csv",
+    "log_file" : "log.txt",
+	"mode" : "schedule",
+    "beginTime" : "18:57:00",
+    "endTime" : "07:00:00",
+    "lowBeamBrightness" : 10,
+    "highBeamBrightness" : 10
+}
